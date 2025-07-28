@@ -1,0 +1,24 @@
+{
+  "generationParameters": {
+    "generationDate": "Mon Jul 28 2025 14:13:13 GMT+0530 (India Standard Time)",
+    "generatorPlatform": "Visual Studio Code",
+    "serviceType": "SAP System (ABAP On Premise)",
+    "metadataFilename": "",
+    "serviceUrl": "http://sapsdvapp.aws.londonhydro.cloud:8000/sap/opu/odata/sap/ZCE_SS_AERO_REWARDS_SRV",
+    "appName": "zlh_aero_rewards",
+    "appTitle": "Application Name - Aero Rewards",
+    "appDescription": "Application Name - Aero Rewards",
+    "appNamespace": "com.sap.lh.mr",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.120.0",
+    "enableCodeAssist": false,
+    "enableEslint": false,
+    "enableTypeScript": false,
+    "showMockDataInfo": true,
+    "generatorVersion": "1.18.0",
+    "template": "Basic V2",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [],
+    "launchText": "In order to launch the generated app, simply run the following from the generated app root folder:\n\n```\n    npm start\n```"
+  }
+}
